@@ -1,5 +1,7 @@
 # Ebike_Torque_Sensor
 PAS control
+Datasheet
+https://bafang-e.com/uploaded/manual/BF-DM-C-SR%20PA2XX.32.ST.C-EN.pdf
 
 https://tr.aliexpress.com/i/33030138390.html?gatewayAdapt=glo2tur
 ![image](https://github.com/user-attachments/assets/9c643f9a-c510-4267-8f0e-91f8d1dd4e61)
