@@ -10,3 +10,6 @@ https://ae01.alicdn.com/kf/Hf5b3b22eefad40538ca78ed4cb024697W.jpg
 
 Bafang git
 https://github.com/OpenSourceEBike/Bafang_M500_M600
+
+TICKS
+https://community.st.com/t5/stm32-mcus-products/i-need-help-for-a-traffic-light-letting-3-leds-blink-at/td-p/218259
